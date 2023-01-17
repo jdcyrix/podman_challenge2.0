@@ -45,3 +45,7 @@ Realice las siguientes tareas:
  - Use el comando podman para iniciar sesion en el repositorio de imagenes quay.io de Red Hat.
  - Etiquete la imagen httpd como quay.io/$USERNAME/httpd:1.0-test, donde $USERNAME es su nombre de usuario de quay.io.
  - Envie la imagen del contenedor etiquetado al repositorio quay.io de Red Hat.
+
+
+#### No olvides enviar un documento con los comandos que ejecutaste para darle OK al repositorio
+#### Exitos !!!
