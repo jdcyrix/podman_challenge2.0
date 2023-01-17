@@ -35,17 +35,6 @@ Realice las siguientes tareas:
  - La nueva imagen del contenedor debe llamarse jboss-eap y tener una etiqueta de 7.4.0-dev.
  - El nombre del autor de la nueva imagen del contenedor debe establecerse en "Home Lab".
 
-# Podman Tarea 4: Empujar y extraer imagenes de los registros
-Para esta tarea, necesitara tener una cuenta gratuita en el repositorio quay.io de Red Hat para poder enviarle una imagen de contenedor.
-
-Realice las siguientes tareas:
-
- - Use el comando podman para buscar y ubicar la imagen del contenedor oficial docker.io/httpd.
- - Obtenga la ultima version de la imagen del contenedor httpd del repositorio de imagenes docker.io Docker Hub.
- - Use el comando podman para iniciar sesion en el repositorio de imagenes quay.io de Red Hat.
- - Etiquete la imagen httpd como quay.io/$USERNAME/httpd:1.0-test, donde $USERNAME es su nombre de usuario de quay.io.
- - Envie la imagen del contenedor etiquetado al repositorio quay.io de Red Hat.
-
 
 ## No olvides enviar un documento con los comandos que ejecutaste para darle OK al reto
 ## Exitos !!!
